@@ -1,0 +1,6 @@
+TestSequence,9/6/16,,,,,,,,,,,
+ORF,start,stop,direction,size (bp),size (aa),Gene,definition,GB ,Type ,query cov,query id,comment
+gene_1,11,803,-1,792,264,tnp,  transposase [Shigella sonnei] >gi, WP_058668895.1, ,0.332071,1, 
+gene_2,874,1240,-1,366,122,tnp,  transposase [Shigella sonnei] >gi, WP_000261585.1, ,0.330601,1, 
+gene_3,1250,1601,1,351,117,Conserved hypothetical protein,  hypothetical protein UVM2_75c00010 [Escherichia coli], OAC02638.1, ,0.310541,0.844037, 
+gene_4,1660,2125,-1,465,155,Conserved hypothetical protein,  hypothetical protein [Escherichia coli] >gi, WP_048238523.1, ,0.331183,0.993506, 

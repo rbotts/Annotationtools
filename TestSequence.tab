@@ -1,0 +1,22 @@
+TestSequence	09/06/16
+ORF	start	stop	direction	size (bp)	size (aa)	Gene	definition	GB 	Type 	query cov	query id	comment
+gene_1	 11	 803	 -1	 792	 264	 	  transposase [Shigella sonnei] >gi	 WP_058668895.1	 	 0.332071	 1.000000	 
+gene_1	 11	 803	 -1	 792	 264	 	  transposase [Shigella sonnei]	 WP_052974341.1	 	 0.332071	 1.000000	 
+gene_1	 11	 803	 -1	 792	 264	 	  transposase [Escherichia coli] >gi	 WP_047665121.1	 	 0.332071	 1.000000	 
+gene_1	 11	 803	 -1	 792	 264	 	  transposase [Escherichia coli] >gi	 WP_032284758.1	 	 0.332071	 1.000000	 
+gene_1	 11	 803	 -1	 792	 264	 	  integrase core domain protein [Shigella flexneri K-315]	 EIQ21413.1	 	 0.332071	 1.000000	 
+gene_2	 874	 1240	 -1	 366	 122	 	  transposase [Shigella sonnei] >gi	 WP_000261585.1	 	 0.330601	 1.000000	 
+gene_2	 874	 1240	 -1	 366	 122	 	  transposase [Escherichia coli] >gi	 WP_001753547.1	 	 0.330601	 1.000000	 
+gene_2	 874	 1240	 -1	 366	 122	 	  transposase insC for insertion element IS2D, partial [Escherichia coli BIDMC 49a]	 ETY52007.1	 	 0.330601	 1.000000	 
+gene_2	 874	 1240	 -1	 366	 122	 	  insertion sequence 2 OrfA protein [Escherichia coli D9]	 EGJ05988.1	 	 0.330601	 1.000000	 
+gene_2	 874	 1240	 -1	 366	 122	 	  MULTISPECIES: transposase [Bacteria] >gi	 WP_000567766.1	 	 0.330601	 1.000000	 
+gene_3	 1250	 1601	 1	 351	 117	 	  hypothetical protein [Escherichia coli]	 WP_042611951.1	 	 0.330484	 1.000000	 
+gene_3	 1250	 1601	 1	 351	 117	 	  hypothetical protein AC16_3720 [Escherichia coli 2-177-06_S3_C2] >gi	 KDX43419.1	 	 0.310541	 0.844037	 
+gene_3	 1250	 1601	 1	 351	 117	 	  hypothetical protein LT29_02604 [Escherichia coli]	 KXG61525.1	 	 0.310541	 0.844037	 
+gene_3	 1250	 1601	 1	 351	 117	 	  hypothetical protein ECO10026_23148, partial [Escherichia coli O26:H11 str. CVM10026]	 EIL39535.1	 	 0.310541	 0.844037	 
+gene_3	 1250	 1601	 1	 351	 117	 	  hypothetical protein UVM2_75c00010 [Escherichia coli]	 OAC02638.1	 	 0.310541	 0.844037	 
+gene_4	 1660	 2125	 -1	 465	 155	 	  MULTISPECIES: DUF386 domain-containing protein [Proteobacteria] >gi	 WP_000979882.1	 	 0.331183	 1.000000	 
+gene_4	 1660	 2125	 -1	 465	 155	 	  hypothetical protein [Escherichia coli] >gi	 WP_048238523.1	 	 0.331183	 0.993506	 
+gene_4	 1660	 2125	 -1	 465	 155	 	  hypothetical protein [Escherichia coli] >gi	 WP_032186692.1	 	 0.331183	 0.993506	 
+gene_4	 1660	 2125	 -1	 465	 155	 	  hypothetical protein [Escherichia coli] >gi	 WP_063103096.1	 	 0.331183	 0.993506	 
+gene_4	 1660	 2125	 -1	 465	 155	 	  hypothetical protein [Escherichia coli] >gi	 WP_047088115.1	 	 0.331183	 0.993506	 
